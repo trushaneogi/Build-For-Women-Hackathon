@@ -11,7 +11,7 @@ Take A Buddy Website
 * JavaScript
 
 2. Back-End Development
-*
+* mongo
 *
 *
 
