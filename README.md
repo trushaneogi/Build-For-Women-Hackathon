@@ -9,10 +9,13 @@ Take A Buddy Website
 * CSS
 * Bootstrap - CSS Framework
 * JavaScript
+* ejs
 
 2. Back-End Development
-* mongo
-*
+* Node js
+* Express
+* MongoDB
+* Mongoose
 *
 
 ### How to setup
